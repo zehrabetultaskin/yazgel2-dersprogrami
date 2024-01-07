@@ -16,6 +16,7 @@ Projemizde gerekli veritabanı bağlantılarını uyguladıktan sonra sistemimiz
 
 3-Ders Programı Oluşturma Aracı
 Projemizde gerekli haftalık ders dağılım şeklini öğretmenlerin müsaitlik durumunu ve nerede ders vereceklerini sistemimizde belirledikten sonra ders programı oluşturma aracımız ile gerekli konfigurasyonalara sahip haftalık ders çizelgemiz oluşturulmaktadır.Dersleri çizelge üzerinden günlerini veya saatlarini değiştirebilme özelliğimiz mevcuttur ama çakışan derslerimiz aynı zaman aralığında çizelge üzerinde yer alamazlar.
+
 ![image](https://github.com/zehrabetultaskin/yazgel2-dersprogrami/assets/74192618/857a264d-b4e0-4331-b273-476c9a20c999)
 
 Proje Kurulumu 
