@@ -23,6 +23,5 @@ Proje Kurulumu :
 Projemizi çalıştıracağımız makineye indirdikten sonra visual studio ile projemizi çalıştırıyoruz sonrasında projemizi çalıştırıyoruz.Projemiz çalışınca karşımıza veritabanı bağlantı ekranı aracı ile bizi karşılıyor gerekli sunucu ve veritabanı bağlantılarını veritabanı kurulum aracını kullanarak yaptıktan sonra ekranlarımız arasında ilerlemeye devam ederek,ders,öğretmen,sınıf ve derslik eklemelerini yaparak ve bunlar arasında gerekli ders atamalarını ve kısıtları uyguladıktan sonra ders programızı projemiz oluşturmaktadır.
 
 ![image](https://github.com/zehrabetultaskin/yazgel2-dersprogrami/assets/74192618/a21bb487-ebb3-45ab-8532-e3dc1add54b1)
-
 ![image](https://github.com/zehrabetultaskin/yazgel2-dersprogrami/assets/74192618/9c3cf46a-f43f-451c-906d-e7ac4a7db333)
 
