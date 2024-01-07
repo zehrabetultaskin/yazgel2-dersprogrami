@@ -1,0 +1,23 @@
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\bin\Debug\Ders Programı Planlayıcı.exe.config
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\bin\Debug\Ders Programı Planlayıcı.exe
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\bin\Debug\Ders Programı Planlayıcı.pdb
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders Programı Planlayıcı.csproj.AssemblyReference.cache
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders Programı Planlayıcı.csproj.ResolveComReference.cache
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmAna.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmDersProgramiCiktisi.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmGunler.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmKisitlamaOgretmen.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmSaat.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmParametre.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmVeriDuzenleme.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmVeriler.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmYeniDBSunucuGirisi.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmZamanTablosu.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmDersAtama.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmAtananDersler.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.frmKisitlamaDers.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders_Programı_Planlayıcı.Properties.Resources.resources
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders Programı Planlayıcı.csproj.GenerateResource.cache
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders Programı Planlayıcı.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders Programı Planlayıcı.exe
+C:\Users\Zehra\OneDrive\Masaüstü\ders_programi_planlayici-master\Ders Programı Planlayıcı\obj\Debug\Ders Programı Planlayıcı.pdb
